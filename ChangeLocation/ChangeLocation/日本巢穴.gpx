@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     36.015548, 139.679629  白岡総合運動公園 菊石兽
+     34.830996, 137.0663311 コミュニティ公園 墨海马
+     35.132259, 137.184520  丰田市运动公园   飞天螳螂
+     34.719322, 137.692723  佐鳴湖公園      蚊香蝌蚪
+     34.760636, 137.336140  高久縞公園      大岩蛇
+     34.863816, 137.168121  幸田中央公園    鲤鱼王
+     -->
+    <wpt lat="34.863816" lon="137.168121">
+        <name>Cupertino</name>
+        
+        <!--
+         Optionally provide a time element for each waypoint. Xcode will interpolate movement
+         at a rate of speed based on the time elapsed between each waypoint. If you do not provide
+         a time element, then Xcode will use a fixed rate of speed.
+         
+         Waypoints must be sorted by time in ascending order.
+         -->
+        <time>2014-09-24T14:55:37Z</time>
+    </wpt>
+    
+</gpx>

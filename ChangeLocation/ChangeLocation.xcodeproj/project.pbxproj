@@ -29,7 +29,26 @@
 		3FCD7FF8201AD19A00F57E99 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3FCD7FFF201AD1E200F57E99 /* ChangeLoction.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChangeLoction.h; sourceTree = "<group>"; };
 		3FCD8000201AD1E200F57E99 /* ChangeLoction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChangeLoction.m; sourceTree = "<group>"; };
-		3FCD8008201AE76300F57E99 /* Location1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location1.gpx; sourceTree = "<group>"; };
+		E0151D2A21AF8FAB0081A469 /* 台湾新北市.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "台湾新北市.gpx"; sourceTree = "<group>"; };
+		E03D69D72122F9610000E9C3 /* 北京家.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "北京家.gpx"; sourceTree = "<group>"; };
+		E03D69D82122F9900000E9C3 /* 陕西榆能横山电厂.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "陕西榆能横山电厂.gpx"; sourceTree = "<group>"; };
+		E04C70D121587C07004365DD /* 西藏阿里地区.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "西藏阿里地区.gpx"; sourceTree = "<group>"; };
+		E05B1DAB21B57B9100DA04C4 /* 鬼斯.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "鬼斯.gpx"; sourceTree = "<group>"; };
+		E05B1DAC21B61AFA00DA04C4 /* 凯西.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "凯西.gpx"; sourceTree = "<group>"; };
+		E05B1DAD21B62A5200DA04C4 /* 腕力.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "腕力.gpx"; sourceTree = "<group>"; };
+		E067232E213027BA00243C9B /* 北京太极.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "北京太极.gpx"; sourceTree = "<group>"; };
+		E08A7E85235D5FEA00BCAA17 /* 达美中心 T2.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "达美中心 T2.gpx"; sourceTree = "<group>"; };
+		E08E844421CF984400900570 /* EX 道馆.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "EX 道馆.gpx"; sourceTree = "<group>"; };
+		E08E844521D3B6E300900570 /* 台湾中山公园.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "台湾中山公园.gpx"; sourceTree = "<group>"; };
+		E08E844621D449DD00900570 /* Temp.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Temp.gpx; sourceTree = "<group>"; };
+		E08E844721D4E62400900570 /* 日本广岛大学宿舍.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "日本广岛大学宿舍.gpx"; sourceTree = "<group>"; };
+		E08E844821D6654800900570 /* 日本新宿.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "日本新宿.gpx"; sourceTree = "<group>"; };
+		E08E844921D6656500900570 /* 台湾大安森林公园.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "台湾大安森林公园.gpx"; sourceTree = "<group>"; };
+		E094425221CB4CA2004F8B63 /* 日本广岛大学.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "日本广岛大学.gpx"; sourceTree = "<group>"; };
+		E0C22ABC21566FDD00E398EF /* 内蒙古包头.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "内蒙古包头.gpx"; sourceTree = "<group>"; };
+		E0CBD1B8214C0E6E001FE4C5 /* 北京龙源.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "北京龙源.gpx"; sourceTree = "<group>"; };
+		E0D3204021E9CC1200114E79 /* 日本巢穴.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "日本巢穴.gpx"; sourceTree = "<group>"; };
+		E0FEC8152193181100EDC241 /* 北京左岸工社.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "北京左岸工社.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,12 +87,31 @@
 				3FCD7FED201AD19A00F57E99 /* ViewController.m */,
 				3FCD7FFF201AD1E200F57E99 /* ChangeLoction.h */,
 				3FCD8000201AD1E200F57E99 /* ChangeLoction.m */,
-				3FCD8008201AE76300F57E99 /* Location1.gpx */,
 				3FCD7FEF201AD19A00F57E99 /* Main.storyboard */,
 				3FCD7FF2201AD19A00F57E99 /* Assets.xcassets */,
 				3FCD7FF4201AD19A00F57E99 /* LaunchScreen.storyboard */,
 				3FCD7FF7201AD19A00F57E99 /* Info.plist */,
+				E0151D2A21AF8FAB0081A469 /* 台湾新北市.gpx */,
+				E05B1DAB21B57B9100DA04C4 /* 鬼斯.gpx */,
+				E05B1DAC21B61AFA00DA04C4 /* 凯西.gpx */,
+				E05B1DAD21B62A5200DA04C4 /* 腕力.gpx */,
+				E08E844521D3B6E300900570 /* 台湾中山公园.gpx */,
 				3FCD7FF8201AD19A00F57E99 /* main.m */,
+				E08E844621D449DD00900570 /* Temp.gpx */,
+				E08E844921D6656500900570 /* 台湾大安森林公园.gpx */,
+				E03D69D72122F9610000E9C3 /* 北京家.gpx */,
+				E0D3204021E9CC1200114E79 /* 日本巢穴.gpx */,
+				E0FEC8152193181100EDC241 /* 北京左岸工社.gpx */,
+				E067232E213027BA00243C9B /* 北京太极.gpx */,
+				E0CBD1B8214C0E6E001FE4C5 /* 北京龙源.gpx */,
+				E08E844821D6654800900570 /* 日本新宿.gpx */,
+				E08E844421CF984400900570 /* EX 道馆.gpx */,
+				E094425221CB4CA2004F8B63 /* 日本广岛大学.gpx */,
+				E08E844721D4E62400900570 /* 日本广岛大学宿舍.gpx */,
+				E03D69D82122F9900000E9C3 /* 陕西榆能横山电厂.gpx */,
+				E0C22ABC21566FDD00E398EF /* 内蒙古包头.gpx */,
+				E04C70D121587C07004365DD /* 西藏阿里地区.gpx */,
+				E08A7E85235D5FEA00BCAA17 /* 达美中心 T2.gpx */,
 			);
 			path = ChangeLocation;
 			sourceTree = "<group>";
@@ -104,7 +142,7 @@
 		3FCD7FDE201AD19A00F57E99 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = ljb48229;
 				TargetAttributes = {
 					3FCD7FE5201AD19A00F57E99 = {
@@ -192,6 +230,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -199,6 +238,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -247,6 +287,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -254,6 +295,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -287,11 +329,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 47W28PSMV7;
+				DEVELOPMENT_TEAM = HF874RMYR8;
 				INFOPLIST_FILE = ChangeLocation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.lijiangbo.ChangeLocation;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.crazybunqnq.ChangeLocation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -302,11 +344,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 47W28PSMV7;
+				DEVELOPMENT_TEAM = HF874RMYR8;
 				INFOPLIST_FILE = ChangeLocation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.lijiangbo.ChangeLocation;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.crazybunqnq.ChangeLocation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

@@ -25,8 +25,17 @@
     //如果要想知道任意位置的坐标
     //1.去高德地图http://lbs.amap.com/console/show/picker，选中自己坐标
     //杭州  120.211963,30.274602
+    //榆能横山电厂宿舍 109.41118,38.040963
+    //成寿寺路21号院   116.444368,39.852638
+    //太极来广营       116.471516,40.021688
+    //深圳东风大厦     114.093446,22.541497
+    //工人体育场       116.447155, 39.930516
+    //工人体育馆       116.441868, 39.932259
+    //太极公司        116.471516,40.021688
+    //国投大厦        116.357475,39.929352
+    //左岸公社        116.304359,39.984399
     //2.在进行坐标转换
-    CLLocationCoordinate2D location2D = CLLocationCoordinate2DMake(30.274602, 120.211963);
+    CLLocationCoordinate2D location2D = CLLocationCoordinate2DMake(39.984399, 116.304359);
     CLLocationCoordinate2D WGSlocation2D = [ChangeLoction gcj02ToWgs84:location2D];
     NSLog(@"纬度：%f,经度：%f",WGSlocation2D.latitude , WGSlocation2D.longitude);
     //纬度：30.277029,经度：120.207428

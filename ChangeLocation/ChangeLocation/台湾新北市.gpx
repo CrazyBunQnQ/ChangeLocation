@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.25.058224, 121.611297
+     24.811846, 121.023647 鬼斯
+     25.01745, 121.541382 鬼斯通
+     25.085261, 121.517927 鬼斯通
+     25.051762, 121.463417 勇吉拉
+     25.049505,121.463912 勇吉拉
+     25.00119, 121.540298 勇吉拉
+     24.997838, 121.538904 勇吉拉
+     25.082907, 121.473946 卡比兽
+     23.9751577, 121.6038527 Larvitar 龙坑
+     25.092386,121.531473 耿鬼 raid
+     25.00674, 121.52084  08:51:50
+     23.99053, 121.59519
+     25.021161, 121.428934
+     25.089392, 121.524195
+     24.993914, 121.54058
+     25.026685, 121.570159
+     https://www.google.com.tw/maps/place/%E5%85%A7%E6%B9%96%E6%A5%B5%E9%99%90%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92/@ 25.067763, 121.5716523 ,17z/data=!3m1!4b1!4m5!3m4!1s0x3442ac786105ed15:0x99f2c2bb6384c4dc!8m2!3d25.067763!4d121.573841
+     -->
+    <wpt lat="25.026685" lon="121.570159">
+        <name>Cupertino</name>
+        
+        <!--
+         Optionally provide a time element for each waypoint. Xcode will interpolate movement
+         at a rate of speed based on the time elapsed between each waypoint. If you do not provide
+         a time element, then Xcode will use a fixed rate of speed.
+         
+         Waypoints must be sorted by time in ascending order.
+         -->
+        <time>2014-09-24T14:55:37Z</time>
+    </wpt>
+    
+</gpx>
